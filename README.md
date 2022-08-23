@@ -1,5 +1,7 @@
 # GUI Project
 
+## Due: DoW MM/DD at 11:59 PM
+
 - Create a game using a GUI
 - This can be a game that already exists or a game you make up
 - Your game (regardless of if it already exists or not) must be approved by me before you start
