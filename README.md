@@ -1,6 +1,6 @@
 # GUI Project
 
-## Due: Mon 5/22 at 11:59 PM
+## Due: Mon 5/22 at the end of class
 
 - Create a game using a GUI
 - This can be a game that already exists or a game you make up
